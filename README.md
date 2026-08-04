@@ -22,6 +22,6 @@ I am a passionate **FullStack Developer** focused on building scalable web appli
 ---
 
 ### 📫 Connect with me
-- 📧 Email: [your.email@example.com](mailto:your.email@example.com)
-- 💼 LinkedIn: [your-profile](https://linkedin.com)
-- 💬 Telegram: [@your_username](https://t.me)
+- 📧 Email: [stanislavborisov67@gmail.com](mailto:your.email@example.com)
+- 💼 LinkedIn: [coming soon!](https://linkedin.com)
+- 💬 Telegram: [@zxcstanislav](https://t.me)
