@@ -1,24 +1,27 @@
-# 👋 Hi there, I'm Stanislav!
-**FullStack Developer** · Scalable Systems · Clean Code
+# Hi there, I'm Stanislav! 👋
 
-![](https://komarev.com/ghpvc/?username=stanislavzxc&color=brightgreen)
-
-I build web apps, microservices, and frontends that don't fall over under load.
+I am a passionate **FullStack Developer** focused on building scalable web applications, microservices, and efficient frontend interfaces. 
 
 ---
 
-## 🧰 Tech Stack
-- **Frontend**: Vue.js / Nuxt.js, React, TypeScript, JS, HTML5, CSS3  
-- **Backend**: Python (FastAPI, Flask), C# (.NET Core / ASP.NET Core)  
-- **Databases**: PostgreSQL (design, migrations, query optimization)  
-- **DevOps**: Git, Docker, Docker Compose, Nginx
+### 🛠️ Tech Stack & Tools
 
-## 🚀 What I Do
-- Build responsive SPAs with Vue 3 / Nuxt 3  
-- Design REST APIs + async microservices (FastAPI / ASP.NET)  
-- Optimize database queries for high-load systems  
-- Deploy with Docker Compose + Nginx (zero-downtime)
+- **Frontend:** Vue.js / Nuxt.js, React, TypeScript, JavaScript, HTML5, CSS3
+- **Backend:** Python (FastAPI, Flask), C# (.NET Core / ASP.NET Core)
+- **Databases:** PostgreSQL
+- **DevOps & Tools:** Git, Docker, Docker Compose, Nginx
 
-## 📫 Connect
-- **Telegram**: [@zxcastanislav](https://t.me/zxcastanislav)  
-- **Email**: [stanislavborisov67@gmail.com](mailto:stanislavborisov67@gmail.com)
+---
+
+### 🚀 What I Do
+- 💻 Develop responsive and high-performance user interfaces.
+- ⚙️ Design secure, architecture-optimized RESTful APIs and microservices.
+- 📊 Build a high-load ecosystems.
+- 🐳 Containerize applications and configure web servers for production.
+
+---
+
+### 📫 Connect with me
+- 📧 Email: [stanislavborisov67@gmail.com](mailto:your.email@example.com)
+- 💼 LinkedIn: [coming soon!](https://linkedin.com)
+- 💬 Telegram: [@zxcstanislav](https://t.me)
