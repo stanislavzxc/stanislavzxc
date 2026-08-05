@@ -16,7 +16,7 @@ I am a passionate **FullStack Developer** focused on building scalable web appli
 ### 🚀 What I Do
 - 💻 Develop responsive and high-performance user interfaces.
 - ⚙️ Design secure, architecture-optimized RESTful APIs and microservices.
-- 📊 Build web scrapers and automation tools.
+- 📊 Build a high-load ecosystems.
 - 🐳 Containerize applications and configure web servers for production.
 
 ---
