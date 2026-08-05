@@ -1,27 +1,24 @@
-### Hi there, I'm Stanislav! 👋
+# 👋 Hi there, I'm Stanislav!
+**FullStack Developer** · Scalable Systems · Clean Code
 
-I am a passionate **FullStack Developer** focused on building scalable web applications, microservices, and efficient frontend interfaces. 
+![](https://komarev.com/ghpvc/?username=stanislavzxc&color=brightgreen)
 
----
-
-### 🛠️ Tech Stack & Tools
-
-- **Frontend:** Vue.js / Nuxt.js, React, TypeScript, JavaScript, HTML5, CSS3
-- **Backend:** Python (FastAPI, Flask), C# (.NET Core / ASP.NET Core)
-- **Databases:** PostgreSQL
-- **DevOps & Tools:** Git, Docker, Docker Compose, Nginx
+I build web apps, microservices, and frontends that don't fall over under load.
 
 ---
 
-### 🚀 What I Do
-- 💻 Develop responsive and high-performance user interfaces.
-- ⚙️ Design secure, architecture-optimized RESTful APIs and microservices.
-- 📊 Build a high-load ecosystems.
-- 🐳 Containerize applications and configure web servers for production.
+## 🧰 Tech Stack
+- **Frontend**: Vue.js / Nuxt.js, React, TypeScript, JS, HTML5, CSS3  
+- **Backend**: Python (FastAPI, Flask), C# (.NET Core / ASP.NET Core)  
+- **Databases**: PostgreSQL (design, migrations, query optimization)  
+- **DevOps**: Git, Docker, Docker Compose, Nginx
 
----
+## 🚀 What I Do
+- Build responsive SPAs with Vue 3 / Nuxt 3  
+- Design REST APIs + async microservices (FastAPI / ASP.NET)  
+- Optimize database queries for high-load systems  
+- Deploy with Docker Compose + Nginx (zero-downtime)
 
-### 📫 Connect with me
-- 📧 Email: [stanislavborisov67@gmail.com](mailto:your.email@example.com)
-- 💼 LinkedIn: [coming soon!](https://linkedin.com)
-- 💬 Telegram: [@zxcstanislav](https://t.me)
+## 📫 Connect
+- **Telegram**: [@zxcastanislav](https://t.me/zxcastanislav)  
+- **Email**: [stanislavborisov67@gmail.com](mailto:stanislavborisov67@gmail.com)
