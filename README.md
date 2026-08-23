@@ -15,6 +15,7 @@ I am a passionate **FullStack Developer** focused on building scalable web appli
   <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET Core">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
 </p>
+<img src="https://img.shields.io/badge/MongoDB-00684A?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
 
 <p align="center">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
@@ -28,7 +29,7 @@ I am a passionate **FullStack Developer** focused on building scalable web appli
 
 - **Frontend:** Vue.js / Nuxt.js, React, TypeScript
 - **Backend:** Python (FastAPI, Flask), C# (.NET Core / ASP.NET Core)
-- **Databases:** PostgreSQL
+- **Databases:** PostgreSQL, MongoDB
 - **DevOps & Tools:** Git, Docker, Docker Compose, Nginx
 
 ---
