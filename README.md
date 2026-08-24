@@ -26,7 +26,7 @@ I am a passionate **FullStack Developer** focused on building scalable web appli
 
 ### 🛠️ Tech Stack & Tools
 
-- **Frontend:** Vue.js / Nuxt.js, React, TypeScript
+- **Frontend:** Vue.js / Nuxt.js, React, TypeScript, Pinia, Zustand 
 - **Backend:** Python (FastAPI, Flask), C# (.NET Core / ASP.NET Core)
 - **Databases:** PostgreSQL, MongoDB
 - **DevOps & Tools:** Git, Docker, Docker Compose, Nginx
