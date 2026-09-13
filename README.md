@@ -14,7 +14,8 @@ I am a passionate **FullStack Developer** focused on building scalable web appli
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI">
   <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET Core">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
-<img src="https://img.shields.io/badge/MongoDB-00684A?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+  <img src="https://img.shields.io/badge/MongoDB-00684A?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+  <img src="https://img.shields.io/badge/Redis-5.0+-red.svg?logo=redis&logoColor=white" alt="Redis">
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
@@ -28,7 +29,7 @@ I am a passionate **FullStack Developer** focused on building scalable web appli
 
 - **Frontend:** Vue.js / Nuxt.js, React, TypeScript, Pinia, Zustand 
 - **Backend:** Python (FastAPI, Flask), C# (.NET Core / ASP.NET Core)
-- **Databases:** PostgreSQL, MongoDB
+- **Databases:** PostgreSQL, MongoDB, Redis
 - **DevOps & Tools:** Git, Docker, Docker Compose, Nginx
 
 ---
