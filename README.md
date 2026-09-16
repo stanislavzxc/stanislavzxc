@@ -1,7 +1,7 @@
 # Hi there, I'm Stanislav! 👋
 
 <p align="center">
-  <img src="/lilpeep_hellboy.gif" alt="lil pip gif" width="100%" height="300"/>
+  <img src="/lilpeep_hellboy.gif" alt="lil pip gif" width="100%" />
   
   <!-- <img src="/lilpeep_benz.gif" alt="lil pip gif" width="550" /> -->
 </p>
