@@ -1,6 +1,6 @@
 # Hi there, I'm Stanislav! 👋
 
-<p style="align: center;">
+<p style="display: flex; justify-content: center; width: 100%;">
  <img src="/lilpeep_benz.gif" alt="lil pip gif" style="width:550px;"/>  
 </p>
 
