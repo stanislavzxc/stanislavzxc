@@ -1,7 +1,9 @@
 # Hi there, I'm Stanislav! 👋
 
 <p align="center">
-  <img src="/lilpeep_benz.gif" alt="lil pip gif" width="500" />
+  <img src="/lilpeep_hellboy.gif" alt="lil pip gif" width="auto" />
+  
+  <!-- <img src="/lilpeep_benz.gif" alt="lil pip gif" width="550" /> -->
 </p>
 
 I am a passionate **FullStack Developer** focused on building scalable web applications, microservices, and efficient frontend interfaces. 
